@@ -42,7 +42,7 @@ Clone the `image_ros` package into your ROS 2 workspace:
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/your-repo/image_ros.git
+git clone https://github.com/mahachanakya07/image_ros.git
 ```
 
 ### 2. Build the Package
